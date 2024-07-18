@@ -13,7 +13,7 @@ This repository contains a Terraform project designed to create an AWS Virtual P
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AWS-VPC-Terraform.git
+git clone https://github.com/guidovisk1/AWS-VPC-Terraform.git
 
 cd AWS-VPC-Terraform
 
