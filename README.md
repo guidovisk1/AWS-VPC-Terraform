@@ -8,6 +8,9 @@ This repository contains a Terraform project designed to create an AWS Virtual P
 - AWS account with appropriate permissions
 - [AWS CLI](https://aws.amazon.com/cli/) configured with your credentials
 
+## Architecture 
+Simple Standard Module Structure - https://developer.hashicorp.com/terraform/language/modules/develop/structure
+
 ## Getting Started
 
 ### Clone the Repository
